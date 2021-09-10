@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/ursiform/logger"
-	"github.com/zeromq/gyre"
+	"github.com/FLAGlab/gyre"
 )
 
 type listener struct {

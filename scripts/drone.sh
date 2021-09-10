@@ -9,7 +9,7 @@ wget --quiet https://storage.googleapis.com/golang/go$GOVERSION.$OS-$ARCH.tar.gz
 mv go$GOVERSION.$OS-$ARCH.tar.gz golang.tar.gz
 sudo tar -C /usr/local -xzf golang.tar.gz
 rm golang.tar.gz
-cd /home/ubuntu/src/github.com/ursiform/sleuth
+cd /home/ubuntu/src/github.com/FLAGlab/sleuth
 wget --quiet https://github.com/zeromq/zeromq4-1/releases/download/v$ZMQVERSION/zeromq-$ZMQVERSION.tar.gz
 tar xzf zeromq-$ZMQVERSION.tar.gz
 rm zeromq-$ZMQVERSION.tar.gz
@@ -20,7 +20,7 @@ sudo apt-get install libtool pkg-config build-essential autoconf automake
 make
 sudo make install
 sudo ldconfig
-cd /home/ubuntu/src/github.com/ursiform/sleuth
+cd /home/ubuntu/src/github.com/FLAGlab/sleuth
 rm -rf zeromq-$ZMQVERSION
 go get
 go build

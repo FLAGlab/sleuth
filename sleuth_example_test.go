@@ -3,7 +3,7 @@ package sleuth_test
 import (
 	"fmt"
 
-	"github.com/ursiform/sleuth"
+	"github.com/FLAGlab/sleuth"
 )
 
 func ExampleError() {
