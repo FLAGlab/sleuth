@@ -1,5 +1,5 @@
-github.com/FLAGlab/gyre v0.0.0-20210910021225-09d1dbeb52d5 h1:sqTLjtTtX4AcwiGX4LMmjKd92a0bcVFtdEs8IqyW2ro=
-github.com/FLAGlab/gyre v0.0.0-20210910021225-09d1dbeb52d5/go.mod h1:AJka+rsQ8OVHtUcf4EctC5/k7Mof+xnbtAmoTOXf9+g=
+github.com/FLAGlab/gyre v1.0.0 h1:DNqjse+Ao3d+4Hvkm+PId2xnzH/uXe6wjbzkdqMem0Y=
+github.com/FLAGlab/gyre v1.0.0/go.mod h1:AJka+rsQ8OVHtUcf4EctC5/k7Mof+xnbtAmoTOXf9+g=
 github.com/armen/goviral v0.0.0-20150416020909-5ca05b524b2b h1:5fM0n0Sj5uV/a+jyfFffq8P+/pBtQARJh6VYBAe5eE4=
 github.com/armen/goviral v0.0.0-20150416020909-5ca05b524b2b/go.mod h1:AsXgWB6/sjdqIi8F83PWtlVBufXTnGdYOKXHpVHEhAE=
 github.com/jtacoma/go-zpl v0.3.0 h1:5e2Z93KMDuFGOCISsr0ygu5wO6MduvcYyGvTFfzf+eQ=

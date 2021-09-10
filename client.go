@@ -191,7 +191,7 @@ func (c *Client) receive(payload []byte) error {
 		delete(c.listener.handles, handle)
 		return nil
 	}
-	return newError(errRECV, "unknown handle %d", handle)
+	return newError(errRECV, "unknown handle %v", handle)
 }
 
 func (c *Client) remove(name string) {

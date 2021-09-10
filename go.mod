@@ -3,7 +3,7 @@ module github.com/FLAGlab/sleuth
 go 1.17
 
 require (
-	github.com/FLAGlab/gyre v0.0.0-20210910021225-09d1dbeb52d5
+	github.com/FLAGlab/gyre v1.0.0
 	github.com/ursiform/logger v0.0.0-20160611213435-d99d80e097bb
 )
 
